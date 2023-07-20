@@ -1,7 +1,7 @@
 # My name is Felipe, I'm 25 years old
 
 # 💫 About Me:
-💻 Software engineering student at Jala University<br>❤ Passionate about technology, programming, coffee, and online gaming<br>📚Mainly work with Python but also currently studying HTML, CSS, and Java<br>🤝Always looking to learn more and share my knowledge with other programmers
+💻 Software engineering student at Jala University<br>❤ Passionate about technology, programming, coffee, and online gaming<br>🤝Always looking to learn more and share my knowledge with other programmers
 
 
 ## 🌐 Socials:
