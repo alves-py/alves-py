@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alves-py&label=Profile%20views&color=0e75b6&style=flat" alt="alves-py" /> </p>
 
-- 🌱 I’m currently learning **Algo para eu editar depois**
+- 🌱 I’m currently learning **software engineering at Jala University and studying frontend fundamentals on my own to become a full-stack developer.**
 
 - 💬 Ask me about **Jala University, Java, NodeJS and whatever else you want, feel free.**
 
